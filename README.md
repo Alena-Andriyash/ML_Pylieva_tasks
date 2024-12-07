@@ -1,1 +1,1 @@
-# ML_Pylieva_tasks
+# Курс Machine Learning для людей
